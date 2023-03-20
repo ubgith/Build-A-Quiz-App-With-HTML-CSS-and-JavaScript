@@ -19,7 +19,7 @@ Want to improve your **core Web Develoment skills**? Want to improve your knowle
 -   CSS - Flexbox, Animtations, and REM units
 
 ## Course Intro and Resources
-
+<!---test-comment--->
 Welcome to "Build a Quiz App with HTML, CSS, and JS". I'm so excited you decided to take the initiative to improve your core Web Development skills!
 
 In this course, we are going to use fundamental HTML, CSS, and JavaScript skills to build a quiz application. This application will be able to load questions from a 3rd party API, track and display high scores, and so much more! You'll learn how to use Local Storage, create animations, use modern ES6 JavaScript features, and more.
